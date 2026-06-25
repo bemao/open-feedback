@@ -1,0 +1,12 @@
+[
+  {
+    "type": "function",
+    "name": "end_call",
+    "description": "Hangs up. Call this tool to end the call with the user only AFTER saying 'goodbye'",
+    "parameters": {
+      "type": "object",
+      "properties": {},
+      "required": []
+    }
+  }
+]
