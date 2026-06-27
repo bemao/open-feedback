@@ -26,8 +26,7 @@ we weren't quite up the the level they normally look for. No additional informat
 for the time we took going through the process and ended the call. How could we not be touched by such a courteous and not-at-all-time-wasting phone call?
 
 Then the idea occurred to us: why should this courtesy be limited to those who are not-quite-up-to-the-level that FAANG companies typically
-look for? Everyone deserves to be rejected in an equally courteous manner. Hence, `open_feedback` was born. After setting a few simple
-configurations, you can be up and rejecting! 
+look for? Everyone deserves to be rejected in an equally courteous manner. Hence, `open_feedback` was born. 
 
 You can now reject anyone, anywhere, for anything in a kind and empathetic way! No more wasting people's time with sterile emails, you can
 waste their time talking to a bot!
