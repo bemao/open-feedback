@@ -12,8 +12,6 @@
 ██║     ███████╗███████╗██████╔╝██████╔╝██║  ██║╚██████╗██║  ██╗ 
 ╚═╝     ╚══════╝╚══════╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 ```
-Deliver rejections faster with less effort! 
-
 The world's first (?) open source agent for delivering thoughtful and considerate rejections.
 
 ## Story
