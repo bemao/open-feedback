@@ -37,9 +37,24 @@ waste their time talking to a bot!
 - Openai realtime api for powering the chat agent
 - `ngrok` for exposing the API
 
+**Steps**
+1. Setup Twilio and ngrok accounts -- as of June 2026, these two both offer free versions.
+2. Put some money into openai API pay-go and get an API key
+3. Update the `.env` file with the credentials and ngrok redirect URL
+4. Start ngrok
+   ```
+   ngrok http <port>
+   ```
+5. (In another terminal) Start service
+   ```
+   uv run python main.py
+   ```
+6. (In another terminal) Reject!
+   ```
+   uv run python main.py --call <number to call> --type <type of rejection to deliver> --voice <name of voice>
+   ```
 
-
-
+**Have fun!**
 
 
 
