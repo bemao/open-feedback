@@ -32,7 +32,12 @@ You can now reject anyone, anywhere, for anything in a kind and empathetic way! 
 waste their time talking to a bot!
 
 ## Quickstart
-TODO
+`open_feedback` relies on three services: 
+- Twilio for making phone call
+- Openai realtime api for powering the chat agent
+- `ngrok` for exposing the API
+
+
 
 
 
